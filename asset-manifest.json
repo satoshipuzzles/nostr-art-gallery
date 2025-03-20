@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nostr-art-gallery/static/css/main.f9e3c835.css",
+    "main.js": "/nostr-art-gallery/static/js/main.9a76a0c4.js",
+    "static/js/453.21b856c0.chunk.js": "/nostr-art-gallery/static/js/453.21b856c0.chunk.js",
+    "index.html": "/nostr-art-gallery/index.html",
+    "main.f9e3c835.css.map": "/nostr-art-gallery/static/css/main.f9e3c835.css.map",
+    "main.9a76a0c4.js.map": "/nostr-art-gallery/static/js/main.9a76a0c4.js.map",
+    "453.21b856c0.chunk.js.map": "/nostr-art-gallery/static/js/453.21b856c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9e3c835.css",
+    "static/js/main.9a76a0c4.js"
+  ]
+}
